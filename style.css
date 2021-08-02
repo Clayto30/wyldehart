@@ -32,3 +32,13 @@
       color: var(--primary-color)
   }
 
+  #madbtn {
+      background-color: #7848AA;
+      border: none;
+      color: var(--secondary-color);
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+  }
+
